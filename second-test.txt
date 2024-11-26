@@ -1,3 +1,4 @@
 The is the local main branch file.
 
 The is the local repo channges performed to have merge conflict
+This is an addition of new string at the remote main branch just to acheive merge conflict.
